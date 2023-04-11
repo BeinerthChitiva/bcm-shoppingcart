@@ -6,7 +6,7 @@
 It was styled with Bootstrap. Created with Vite + React + TS.
 It uses Clean Code practices, Custom Hooks, React Context and other React features.</p>
 
-👉 Live Demo: <a href='https://minimalist-e-commerce.vercel.app/'>Shopping Cart</a>
+👉 Live Demo: <a href='https://bcm-shoppingcart.vercel.app/store'>Shopping Cart</a>
 
 <h3>Built with:</h3>
 
